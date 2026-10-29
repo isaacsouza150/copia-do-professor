@@ -1,5 +1,4 @@
-pessoa
-cabelo loiro
-pé
-corpo
-cabeça
+nome: Luan de Oliveira Dias
+cor do cabelo: Loiro
+usa óculos
+é professor
