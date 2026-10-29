@@ -1,0 +1,4 @@
+objeto: cubo mágico
+cores: 6 cores
+cubo 3x3
+mecânico
