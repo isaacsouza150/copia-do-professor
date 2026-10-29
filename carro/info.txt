@@ -1,7 +1,4 @@
-Rodas
-banco
-IFieufiuefu
-teesterfewyfueuif
-
-
-TESTEEEEEEojfrijgu
+carro:hb20
+rodas:cinza
+banco:preto
+cor do carro:cinza
