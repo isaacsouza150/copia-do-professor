@@ -1,0 +1,4 @@
+jogo: call of duty warzone
+categoria: fps
+lançado em 10 de março de 2020
+preço: gratuito
